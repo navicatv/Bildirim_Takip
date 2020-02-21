@@ -1,0 +1,11 @@
+C:\Users\AgroDESTEK\Desktop\Bilgi_Takip\Bilgi_Takip\Bilgi_Takip\bin\Debug\Bilgi_Takip.exe.config
+C:\Users\AgroDESTEK\Desktop\Bilgi_Takip\Bilgi_Takip\Bilgi_Takip\bin\Debug\Bilgi_Takip.exe
+C:\Users\AgroDESTEK\Desktop\Bilgi_Takip\Bilgi_Takip\Bilgi_Takip\bin\Debug\Bilgi_Takip.pdb
+C:\Users\AgroDESTEK\Desktop\Bilgi_Takip\Bilgi_Takip\Bilgi_Takip\obj\Debug\Bilgi_Takip.Form1.resources
+C:\Users\AgroDESTEK\Desktop\Bilgi_Takip\Bilgi_Takip\Bilgi_Takip\obj\Debug\Bilgi_Takip.Properties.Resources.resources
+C:\Users\AgroDESTEK\Desktop\Bilgi_Takip\Bilgi_Takip\Bilgi_Takip\obj\Debug\Bilgi_Takip.csproj.GenerateResource.cache
+C:\Users\AgroDESTEK\Desktop\Bilgi_Takip\Bilgi_Takip\Bilgi_Takip\obj\Debug\Bilgi_Takip.exe
+C:\Users\AgroDESTEK\Desktop\Bilgi_Takip\Bilgi_Takip\Bilgi_Takip\obj\Debug\Bilgi_Takip.pdb
+C:\Users\AgroDESTEK\Desktop\Bilgi_Takip\Bilgi_Takip\Bilgi_Takip\obj\Debug\Bilgi_Takip.Liste.resources
+C:\Users\AgroDESTEK\Desktop\Bilgi_Takip\Bilgi_Takip\Bilgi_Takip\obj\Debug\Bilgi_Takip.csprojAssemblyReference.cache
+C:\Users\AgroDESTEK\Desktop\Bilgi_Takip\Bilgi_Takip\Bilgi_Takip\obj\Debug\Bilgi_Takip.BildirimEkle.resources
